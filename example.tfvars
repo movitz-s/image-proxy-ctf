@@ -1,0 +1,5 @@
+access_key  = ""
+secret_key  = ""
+admin_cidr  = "8.8.8.8/32"
+github_auth = "movitz-s:lösenord"
+flag        = "SSM{...}"

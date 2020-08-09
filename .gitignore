@@ -1,0 +1,6 @@
+.terraform
+.terraform**
+terraform**
+node_modules
+ip_address.txt
+.tfvars
